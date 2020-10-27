@@ -1,6 +1,6 @@
 # hello-world
 jump-in
 
-Hello ,
+Hello all,
 
-Joji here. 
+Joji here 🙂
